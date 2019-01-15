@@ -1,5 +1,5 @@
 # Katerina
-<!doctype html>
+<Cайт вчителя інформатики!>
 <html>
 <head>
 <meta charset="utf-8>
